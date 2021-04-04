@@ -449,6 +449,11 @@ function Layout({ children }) {
 
             </section>
 
+<<<<<<< HEAD
+=======
+           
+
+>>>>>>> af5034b38c5416bbddea9c641f00b1aa888e8149
             {/* Waves SVG */}
             <svg className="wave-top" viewBox="0 0 1439 147" version="1.1" xmlns="http://www.w3.org/2000/svg">
               <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -467,6 +472,7 @@ function Layout({ children }) {
               </g>
             </svg>
 
+<<<<<<< HEAD
             {/* CTA block */}
             <section className="container mx-auto text-center py-6 mb-12">
 
@@ -478,6 +484,9 @@ function Layout({ children }) {
               <h3 className="my-4 text-3xl leading-tight">Call us at 4698352290!</h3>	
 
             </section>
+=======
+            
+>>>>>>> af5034b38c5416bbddea9c641f00b1aa888e8149
 
             {/* Footer */}
             <footer className="bg-white">
